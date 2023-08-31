@@ -1,0 +1,7 @@
+hola cara de bola
+
+cd - Cambia de directorio
+mkdir crea un nuevo directorio
+ls lista los elementos de un directorio
+touch crea o actualizaa un directorio
+cat "reproduce los archivos"
